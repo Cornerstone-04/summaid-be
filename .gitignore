@@ -3,3 +3,4 @@ dist/
 .env
 *.log
 serviceAccountKey.json # If you download service account JSON file
+pnpm-workspace
