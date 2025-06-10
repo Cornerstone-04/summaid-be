@@ -2,5 +2,4 @@ node_modules/
 dist/
 .env
 *.log
-summaid-da724-firebase-adminsdk-fbsvc-3373656cc3.json
 pnpm-workspace
