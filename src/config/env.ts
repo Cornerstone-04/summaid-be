@@ -16,8 +16,12 @@ export const CLOUDINARY_API_SECRET = process.env.CLOUDINARY_API_SECRET || "";
 // Firebase Service Account (JSON content as a string)
 export const FIREBASE_SERVICE_ACCOUNT_KEY_JSON =
   process.env.FIREBASE_SERVICE_ACCOUNT_KEY_JSON || "";
+export const FIREBASE_SERVICE_ACCOUNT_KEY_BASE64 =
+  process.env.FIREBASE_SERVICE_ACCOUNT_KEY_BASE64 || "";
 
 // PostgreSQL Database URL
 export const DATABASE_URL = process.env.DATABASE_URL || "";
 
 // Add other environment variables as needed
+export const NODE_TLS_REJECT_UNAUTHORIZED =
+  process.env.NODE_TLS_REJECT_UNAUTHORIZED;

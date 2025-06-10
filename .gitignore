@@ -2,5 +2,5 @@ node_modules/
 dist/
 .env
 *.log
-serviceAccountKey.json # If you download service account JSON file
+summaid-da724-firebase-adminsdk-fbsvc-3373656cc3.json # If you download service account JSON file
 pnpm-workspace
