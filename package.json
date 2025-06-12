@@ -36,6 +36,7 @@
     "openai": "^5.1.1",
     "pdf-parse": "^1.1.1",
     "pg": "^8.16.0",
+    "pptx-parser": "1.1.7-beta.9",
     "tesseract.js": "^6.0.1"
   },
   "devDependencies": {

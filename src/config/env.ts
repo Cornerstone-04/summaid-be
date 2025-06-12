@@ -1,4 +1,3 @@
-// summaid-backend/src/config/env.ts
 import dotenv from "dotenv";
 dotenv.config();
 
@@ -14,7 +13,8 @@ export const CLOUDINARY_API_KEY = process.env.CLOUDINARY_API_KEY || "";
 export const CLOUDINARY_API_SECRET = process.env.CLOUDINARY_API_SECRET || "";
 
 export const SUPABASE_URL = process.env.SUPABASE_URL || "";
-export const SUPABASE_SERVICE_ROLE_KEY = process.env.SUPABASE_SERVICE_ROLE_KEY || "";
+export const SUPABASE_SERVICE_ROLE_KEY =
+  process.env.SUPABASE_SERVICE_ROLE_KEY || "";
 export const SUPABASE_JWT_SECRET = process.env.SUPABASE_JWT_SECRET || "";
 
 // PostgreSQL Database URL

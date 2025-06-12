@@ -1,4 +1,6 @@
 onlyBuiltDependencies:
   - '@firebase/util'
+  - core-js
+  - core-js-pure
   - protobufjs
   - tesseract.js
